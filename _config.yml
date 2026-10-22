@@ -1,4 +1,11 @@
 title: Feet First Fair
-description: "[descrizione da scrivere]"
+description: "[description to write]"
 theme: minima
-lang: it
+lang: en
+plugins:
+  - jekyll-redirect-from
+header_pages:
+  - about.md
+  - registration-forms.md
+  - shop.md
+  - archive.md
