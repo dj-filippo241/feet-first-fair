@@ -1,0 +1,10 @@
+---
+---
+
+$base-font-family: "Arial Narrow", Arial, sans-serif;
+
+@import "minima";
+
+.site-title, .page-link {
+  font-family: $base-font-family;
+}
