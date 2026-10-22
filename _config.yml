@@ -9,3 +9,5 @@ header_pages:
   - registration-forms.md
   - shop.md
   - archive.md
+exclude:
+  - CLAUDE.md
